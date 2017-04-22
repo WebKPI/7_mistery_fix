@@ -1,16 +1,16 @@
 # Quadratic Equations Solver
-
 [TODO. There will be project description]
 
-# How to Use
+Python Project, is used to calculate roots of quadratic equation
 
+# How to Use
 [TODO]
+
+Change the numbers a,b,c in brackets get_roots (a,b,c) in tests.py
 
 # How to Launch Tests
 
-```bash
-python tests.py
-```
+Run it, using python 3.5 and console : python tests.py
 
 # Project Goals
 
